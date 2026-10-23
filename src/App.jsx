@@ -14,7 +14,7 @@ import Settings from './pages/Settings'
 export default function App() {
   return (
     <AppProvider>
-      <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<AppLayout />}>
             <Route index element={<Overview />} />

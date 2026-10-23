@@ -3,9 +3,7 @@
 > A calm, elegant, and privacy-respecting daily planning and productivity SaaS platform designed for students, developers, and busy professionals.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](LICENSE)
-[![GitHub Pages](https://img.shields.io/badge/Live_Demo-GitHub_Pages-245C45?logo=github)](https://aashish-singh01.github.io/lifepilot-ai/)
-[![Live Demo (Vercel)](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel)](https://lifepilot-ai-flame.vercel.app)
-[![Deploy to GitHub Pages](https://github.com/Aashish-singh01/lifepilot-ai/actions/workflows/deploy.yml/badge.svg)](https://github.com/Aashish-singh01/lifepilot-ai/actions/workflows/deploy.yml)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?logo=vercel)](https://lifepilot-ai-flame.vercel.app)
 [![Built with React](https://img.shields.io/badge/React-19.3-blue.svg)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF.svg)](https://vitejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC.svg)](https://tailwindcss.com)

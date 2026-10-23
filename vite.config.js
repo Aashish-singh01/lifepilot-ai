@@ -8,7 +8,6 @@ const __dirname = path.dirname(__filename)
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: process.env.GITHUB_ACTIONS ? '/lifepilot-ai/' : '/',
   plugins: [react()],
   resolve: {
     alias: {
